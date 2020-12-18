@@ -30,9 +30,8 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1 style={{ margin: "2rem" }}> Market Manager </h1>
-      <p style={{ fontSize: "medium", margin: "2rem",
-     }}>
+      <h1 style={{ margin: "2rem" }}> 🗠 Market Manager 🗠</h1>
+      <p style={{ fontSize: "medium", margin: "2rem" }}>
         Here's your stock portfolio. Click below for details
       </p>
       <div>
